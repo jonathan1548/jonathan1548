@@ -1,5 +1,13 @@
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM3OTU5NzUsIm5iZiI6MTc1Mzc5NTY3NSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI5VDEzMjc1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlMWE5M2M5NGY1ZDU0ZDQwNjdhYWVlOTg0Y2ZhMWQzZDZiZDI4NDc3MTkyZjYyN2ExNDJjOTI5OGRjZjljMmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.z5HLKq8wx1OKMqapMJT6qrzQs3Wr2eLZ9r2b2ttRT_M" height="400" >
+</p>
 <h1 align="center">Hi 👋, I'm Jonathan Ashraf</h1>
-<h3 align="center">A passionate frontend developer from egypt</h3>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="250" width="250" align="center">
+<img src="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM3OTU5NzUsIm5iZiI6MTc1Mzc5NTY3NSwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI5VDEzMjc1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwMGQ2NjQ4ZDUzMzk3N2Q4NmZjOTE3ZGNhOTYyOGIwNjM0MjNiYTNiODQ5ZDA0NjMxZjJmYjlkY2RkMGM1MDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nL7QVlhMDCVe5qCsdu_1OswjbETRaa1X9KfNR74ChjU" height="250" width="250" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" width="250" align="center">
+ </p>
+<h3 align="center">A frontend developer from egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathan1548&label=Profile%20views&color=0e75b6&style=flat" alt="jonathan1548" /> </p>
 
